@@ -8,14 +8,14 @@ canvas:
 yellowdig_url: 'https://canvas.asu.edu/courses/94087/assignments/2610852'
 
 yellowdig: 
-  post-00: 'Saturday, March 13'
-  post-01: 'Saturday, March 13'
-  post-02: 'Saturday, March 20'
-  post-03: 'Saturday, March 27' 
-  post-04: 'Saturday, April 3' 
-  post-05: 'Saturday, April 10' 
-  post-06: 'Saturday, April 17' 
-  post-07: 'Saturday, April 24' 
+  post-00: 'Saturday, October 16'
+  post-01: 'Saturday, October 16'
+  post-02: 'Saturday, October 23'
+  post-03: 'Saturday, October 30' 
+  post-04: 'Saturday, November 6' 
+  post-05: 'Saturday, November 13' 
+  post-06: 'Saturday, November 20' 
+  post-07: 'Saturday, November 27' 
   
 
 labs:
