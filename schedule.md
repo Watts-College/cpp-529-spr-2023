@@ -3,36 +3,36 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/94087/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/135352/assignments'
 
-yellowdig_url: 'https://canvas.asu.edu/courses/94087/assignments/2610852'
+yellowdig_url: 'https://canvas.asu.edu/courses/135352/assignments/3610851'
 
 yellowdig: 
-  post-00: 'Saturday, October 16'
-  post-01: 'Saturday, October 16'
-  post-02: 'Saturday, October 23'
-  post-03: 'Saturday, October 30' 
-  post-04: 'Saturday, November 6' 
-  post-05: 'Saturday, November 13' 
-  post-06: 'Saturday, November 20' 
-  post-07: 'Saturday, November 27' 
+  post-00: 'Saturday, October 15'
+  post-01: 'Saturday, October 15'
+  post-02: 'Saturday, October 22'
+  post-03: 'Saturday, October 29' 
+  post-04: 'Saturday, November 5' 
+  post-05: 'Saturday, November 12' 
+  post-06: 'Saturday, November 19' 
+  post-07: 'Saturday, November 26' 
   
 
 labs:
-  lab-01:  'Sunday, October 17' 
-  lab-02:  'Sunday, October 24'
-  lab-03:  'Sunday, October 31'
-  lab-04:  'Sunday, November 7'
-  lab-05:  'Sunday, November 14'
-  lab-06:  'Sunday, November 21 (LAB IS OPTIONAL)'
+  lab-01:  'Sunday, October 16' 
+  lab-02:  'Sunday, October 23'
+  lab-03:  'Sunday, October 30'
+  lab-04:  'Sunday, November 6'
+  lab-05:  'Sunday, November 13'
+  lab-06:  'Sunday, November 20 (LAB IS OPTIONAL)'
   
   
 projects: 
-  code-through:  'Friday, November 26'
-  dashboard:  'Wednesday, December 1'
+  code-through:  'Friday, November 25'
+  dashboard:  'Wednesday, November 30'
 
 
-pdf-root-url: 'https://github.com/watts-college/cpp-529-fall-2021/raw/main/lectures/'
+pdf-root-url: 'https://github.com/watts-college/cpp-529-fall-2022/raw/main/lectures/'
 
 ---
 
