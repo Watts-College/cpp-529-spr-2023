@@ -13,12 +13,12 @@ info:
  course_title: Data Practicum - Community Analytics
  course_number: CPP 529 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/94087'
- course_start_end_dates: March 08 to April 24, 2021  
+ course_website: 'https://canvas.asu.edu/courses/135352'
+ course_start_end_dates: October 12 to December 2, 2022  
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Asynchronous
- discussion_board_url: 'https://watts-college.github.io/cpp-529-fall-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-529-fall-2022/help/'
 
 instructor:
 -  name: Anthony Howell, PhD
