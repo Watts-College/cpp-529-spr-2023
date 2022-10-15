@@ -26,7 +26,7 @@ instructor:
    email: Anthony.Howell@asu.edu
    office_location: Virtual 
    website_url: www.lecy.info
-   github_url:  
+   github_url:  'https://github.com/AntJam-Howell'
    twitter_url: 
    scholar_url: 'https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en&oi=ao'
    linked_in_url:
