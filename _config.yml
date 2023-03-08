@@ -51,8 +51,8 @@ header:
 
 # Default author settings
 author:
-    name:       Jesse Lecy
-    github:     lecy   # Github username for avatar
+    name:       Anthony Howell
+    github:     AntJam-Howell   # Github username for avatar
 
 github_info:
     username:          watts-college # Github location of the course
@@ -63,8 +63,8 @@ github_info:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     jesse:
-        name:       Jesse Lecy
-        github:     lecy    # Github username for avatar
+        name:       Anthony Howell
+        github:     AntJam-Howell    # Github username for avatar
 
 # Social icons displayed in footer
 social:
