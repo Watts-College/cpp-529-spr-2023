@@ -778,7 +778,7 @@ We are interesting in understanding neighborhood change. These data-driven appro
 
 **Overview**
 
-The purpose of Lab 4 is to replicate the work you did for the previous lab, but instead of using the Phoenix data you will select a city of your choice to use for this lab, and the final project.
+The purpose of Lab 4 is to replicate the work you did for the previous lab, but instead of using the Phoenix data you will select San Diego as your city of choice to use for this lab, and the final project.
 
 **Lab Instructions**
 
