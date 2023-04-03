@@ -10,6 +10,7 @@ layout: default
 
 ```r
 x <- rnorm( 10000, 250000, 50000 )
+cut.points <- quantile( x, seq(0,1,0.1) )
 
 # equally spaced bins
 hist( x/100000, breaks=25, col="gray", border="white" )
