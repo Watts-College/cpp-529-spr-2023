@@ -1148,7 +1148,7 @@ As part of the final project, you will also record a video presentation of 15-20
 Submission: You have three deliverables for this final assignment. 
 
 1. Create an RMD file with the all of the datasets described below. In this file you will re-create your dorling cartogram, add your clusters, and add all of the census data needed for your models. This will allow you to load a single geojson map file in your dashboard, and it will contain all of the information you need for all of the tabs. 
-2. Use the template above to create a dashboard that makes all of the data on your city acccessible. Submit the .rmd file, the .html files for your dashboard. 
+2. Use the template above to create a dashboard that makes all of the data on San Diego acccessible. Submit the .rmd file, the .html files for your dashboard. 
 3. Upload a your completed dashboard to shiny.io so that you can share your work via a URL. Include the link to your dashboard in the comments of your project submission, and share your work with classmates via Yellowdig. 
 
 <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT FINAL PROJECT</a>
