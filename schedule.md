@@ -8,28 +8,28 @@ canvas:
 yellowdig_url: 'https://canvas.asu.edu/courses/150234/assignments/4035613'
 
 yellowdig: 
-  post-00: 'Saturday, March 18'
-  post-01: 'Saturday, March 18'
-  post-02: 'Saturday, March 25'
-  post-03: 'Saturday, April 1' 
-  post-04: 'Saturday, April 8' 
-  post-05: 'Saturday, April 15' 
-  post-06: 'Saturday, April 22' 
-  post-07: 'Saturday, April 29' 
+  post-00: ''
+  post-01: ''
+  post-02: ''
+  post-03: '' 
+  post-04: '' 
+  post-05: '' 
+  post-06: '' 
+  post-07: '' 
   
 
 labs:
-  lab-01:  'Sunday, March 19' 
-  lab-02:  'Sunday, March 26'
-  lab-03:  'Sunday, April 2'
-  lab-04:  'Sunday, April 9'
-  lab-05:  'Sunday, April 16'
-  lab-06:  'Sunday, April 23 (LAB IS OPTIONAL)'
+  lab-01:  '' 
+  lab-02:  ''
+  lab-03:  ''
+  lab-04:  ''
+  lab-05:  ''
+  lab-06:  ''
   
   
 projects: 
-  code-through:  'Friday, April 28'
-  dashboard:  'Tuesday, May 2'
+  code-through:  ''
+  dashboard:  ''
 
 
 pdf-root-url: 'https://github.com/watts-college/cpp-529-spr-2023/raw/main/lectures/'
